@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>猷煜的博客</title>
+  
+  <subtitle>没吃饱的一天</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://renwu2019.github.io/"/>
+  <updated>2021-03-24T12:17:18.548Z</updated>
+  <id>https://renwu2019.github.io/</id>
+  
+  <author>
+    <name>猷煜</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test | 123</title>
+    <link href="https://renwu2019.github.io/2021/03/24/test/"/>
+    <id>https://renwu2019.github.io/2021/03/24/test/</id>
+    <published>2021-03-24T10:58:56.080Z</published>
+    <updated>2021-03-24T12:17:18.548Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;test&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://renwu2019.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="博客" scheme="https://renwu2019.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
