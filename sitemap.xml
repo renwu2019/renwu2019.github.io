@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://renwu2019.github.io/2021/03/24/java8/</loc>
+    
+    <lastmod>2021-03-26T07:05:31.082Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://renwu2019.github.io/friends/index.html</loc>
     
     <lastmod>2021-03-25T03:14:30.043Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://renwu2019.github.io/contact/index.html</loc>
     
     <lastmod>2021-03-24T14:25:33.075Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://renwu2019.github.io/2021/03/24/test/</loc>
-    
-    <lastmod>2021-03-24T12:17:18.548Z</lastmod>
     
   </url>
   

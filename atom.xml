@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://renwu2019.github.io/"/>
-  <updated>2021-03-24T12:17:18.548Z</updated>
+  <updated>2021-03-26T07:05:31.082Z</updated>
   <id>https://renwu2019.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test | 123</title>
-    <link href="https://renwu2019.github.io/2021/03/24/test/"/>
-    <id>https://renwu2019.github.io/2021/03/24/test/</id>
+    <title>java8新特性 | 学习记录</title>
+    <link href="https://renwu2019.github.io/2021/03/24/java8/"/>
+    <id>https://renwu2019.github.io/2021/03/24/java8/</id>
     <published>2021-03-24T10:58:56.080Z</published>
-    <updated>2021-03-24T12:17:18.548Z</updated>
+    <updated>2021-03-26T07:05:31.082Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,16 @@
       
         
         
-          &lt;p&gt;test&lt;/p&gt;
-
+          &lt;h1 id=&quot;一、java8发展&quot;&gt;&lt;a href=&quot;#一、java8发展&quot; class=&quot;headerlink&quot; title=&quot;一、java8发展&quot;&gt;&lt;/a&gt;一、java8发展&lt;/h1&gt;&lt;h3 id=&quot;1-jdk5&quot;&gt;&lt;a href=&quot;#1-jdk5&quot;
         
       
     
     </summary>
     
-      <category term="随笔" scheme="https://renwu2019.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="编程语言" scheme="https://renwu2019.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
     
     
-      <category term="博客" scheme="https://renwu2019.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="java8" scheme="https://renwu2019.github.io/tags/java8/"/>
     
   </entry>
   
