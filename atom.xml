@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://renwu2019.github.io/"/>
-  <updated>2021-04-21T06:17:45.291Z</updated>
+  <updated>2021-03-26T07:05:31.082Z</updated>
   <id>https://renwu2019.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Redis深度历险 | 学习记录</title>
-    <link href="https://renwu2019.github.io/2021/04/21/redis-shen-du-li-xian-xue-xi-ji-lu/"/>
-    <id>https://renwu2019.github.io/2021/04/21/redis-shen-du-li-xian-xue-xi-ji-lu/</id>
-    <published>2021-04-21T06:16:25.000Z</published>
-    <updated>2021-04-21T06:17:45.291Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Redis深度历险-核心原理与应用实践（钱文品）&quot;&gt;&lt;a href=&quot;#Redis深度历险-核心原理与应用实践（钱文品）&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>java8新特性 | 学习记录</title>
